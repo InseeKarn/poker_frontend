@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import React from 'react';
+import PokerTable from './components/PokerTable';
 
 function App() {
   return (
